@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Hello there, I'm Leonardo.
----
 
-## Born to code, human after all!
+### Born to code, human after all!
 
 - 🧑‍💻 I'm a junior software developer.
 - 👨‍🎓 I'm studying software engineering at 42|Rio. 
@@ -25,18 +24,22 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Learn more about virtual reality.
 - ⚡ Fun fact 1: I love cars and motorsports.
 
+---
 
 ### Where to find me:
-
 <p>
 <a href="https://github.com/leofariasrj25" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/leofariasrj25" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://leofariasrj25.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
+---
+
 ### Languages and Tools:
 
-<br />
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+</p>
+
 <br />
 
 ---
@@ -55,4 +58,5 @@ Here are some ideas to get you started:
 
 ---
 
-${{ secrets.METRICS_TOKEN }}
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leofariasrj25&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofariasrj25&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
