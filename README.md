@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 🧑‍💻 I'm a junior software developer.
 - 👨‍🎓 I'm studying software engineering at 42|Rio. 
-- 📖 Currently learning: graphics and multithread programming.
+- 📖 Currently learning: graphics by creating a raytracing engine.   
 - 💻 Passionate about tech and the future.
-- 🥅 2022 Goals: Learn more about virtual reality.
+- 🥅 2023 Goals: Learn more about IA, cryptocurrencies and augumented reality
 - ⚡ Fun fact 1: I love cars and motorsports.
 
 ---
