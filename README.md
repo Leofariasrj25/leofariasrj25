@@ -52,19 +52,19 @@ Here are some ideas to get you started:
 [![lfarias-'s 42 stats](https://badge42.vercel.app/api/v2/cl5zpz90q000609l63hare0gx/stats?cursusId=21&coalitionId=345)](https://github.com/JaeSeoKim/badge42)
 
 <a href="https://github.com/Leofariasrj25/libft">
-<img height="80px" src="./src/42_badges/libftm.png" />
+<img height="80px" src="./assets/42_badges/libftm.png" />
 </a>
 <a href="https://github.com/Leofariasrj25/get_next_line42">
-<img height="80px" src="./src/42_badges/get_next_linem.png" />
+<img height="80px" src="./assets/42_badges/get_next_linem.png" />
 </a>
 <a href="">
-<img height="80px" src="./src/42_badges/born2berootm.png" />
+<img height="80px" src="./assets/42_badges/born2berootm.png" />
 </a>
 <a href="https://github.com/Leofariasrj25/ft_printf42">
-<img height="80px" src="./src/42_badges/ft_printfe.png" />
+<img height="80px" src="./assets/42_badges/ft_printfe.png" />
 </a>
 <a href="https://github.com/Leofariasrj25/pipex42">
-<img height="80px" src="./src/42_badges/pipexm.png" />
+<img height="80px" src="./assets/42_badges/pipexm.png" />
 </a>
 <a href="https://github.com/Leofariasrj25/FdF">
 <img height="80px" src="./assets/42_badges/fdfm.png" />
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <img height="80px" src="./assets/42_badges/push_swapm.png" />
 </a>
 <a href="https://github.com/Leofariasrj25/philosophers42">
-<img height="80px" src="./src/42_badges/philosopherse.png" />
+<img height="80px" src="./assets/42_badges/philosopherse.png" />
 </a>
 <a href="https://github.com/speedshell/minishell">
 <img height="80px" src="./assets/42_badges/minishellm.png" />
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 <img height="80px" src="./assets/42_badges/minirtm.png" />
 </a>
 <a href="https://github.com/Leofariasrj25/cpp-piscine">
-<img height="80px" src="./assets/42_badges/cppe.png" />
+<img height="80px" src="./assets/42_badges/cppm.png" />
 </a>
 <a href="">
 <img height="80px" src="./assets/42_badges/inceptionn.png" />
