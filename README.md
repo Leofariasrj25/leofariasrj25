@@ -88,6 +88,7 @@ Here are some ideas to get you started:
 <img height="80px" src="./assets/42_badges/inceptionn.png" />
 </a>
 
+---
 
 ### 📕 Latest Blog Posts
 
