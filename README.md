@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 
 # Hello there, I'm Leonardo.
 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="">
+</div><br>
+
 ### Born to code, human after all!
 
 - 🧑‍💻 I'm a junior software developer.
 - 👨‍🎓 I'm studying software engineering at 42|Rio. 
 - 📖 Currently learning: graphics by creating a raytracing engine.   
 - 💻 Passionate about tech and the future.
-- 🥅 2023 Goals: Learn more about IA, cryptocurrencies and augumented reality
+- 🥅 2023 Goals: Learn more about IA, cryptocurrencies, and augmented reality
 - ⚡ Fun fact 1: I love cars and motorsports.
 
 ---
@@ -43,6 +47,50 @@ Here are some ideas to get you started:
 <br />
 
 ---
+
+### 42 journey
+[![lfarias-'s 42 stats](https://badge42.vercel.app/api/v2/cl5zpz90q000609l63hare0gx/stats?cursusId=21&coalitionId=345)](https://github.com/JaeSeoKim/badge42)
+
+<a href="https://github.com/Leofariasrj25/libft">
+<img height="80px" src="./src/42_badges/libftm.png" />
+</a>
+<a href="https://github.com/Leofariasrj25/get_next_line42">
+<img height="80px" src="./src/42_badges/get_next_linem.png" />
+</a>
+<a href="">
+<img height="80px" src="./src/42_badges/born2beroote.png" />
+</a>
+<a href="">
+<img height="80px" src="./src/42_badges/ft_printfe.png" />
+</a>
+<a href="">
+<img height="80px" src="./src/42_badges/pipexe.png" />
+</a>
+<a href="https://github.com/Leofariasrj25/FdF">
+<img height="80px" src="" />
+</a>
+<a href="https://github.com/Leofariasrj25/push_swap42">
+<img height="80px" src="./src/42_badges/push_swape.png" />
+</a>
+<a href="">
+<img height="80px" src="./src/42_badges/philosopherse.png" />
+</a>
+<a href="https://github.com/speedshell/minishell">
+<img height="80px" src="./src/42_badges/minishelle.png" />
+</a>
+<a href="">
+<img height="80px" src="./src/42_badges/netpracticem.png" />
+</a>
+<a href="">
+<img height="80px" src="" />
+</a>
+<a href="">
+<img height="80px" src="./src/42_badges/cppe.png" />
+</a>
+<a href="">
+<img height="80px" src="./src/42_badges/inceptionn.png" />
+</a>
+
 
 ### 📕 Latest Blog Posts
 
