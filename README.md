@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hello there, I'm Leonardo.
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="">
+<img hight="300" width="700" alt="GIF" align="center" src="./assets/ready player one.webp">
 </div><br>
 
 ### Born to code, human after all!
@@ -58,37 +58,37 @@ Here are some ideas to get you started:
 <img height="80px" src="./src/42_badges/get_next_linem.png" />
 </a>
 <a href="">
-<img height="80px" src="./src/42_badges/born2beroote.png" />
+<img height="80px" src="./src/42_badges/born2berootm.png" />
 </a>
-<a href="">
+<a href="https://github.com/Leofariasrj25/ft_printf42">
 <img height="80px" src="./src/42_badges/ft_printfe.png" />
 </a>
-<a href="">
-<img height="80px" src="./src/42_badges/pipexe.png" />
+<a href="https://github.com/Leofariasrj25/pipex42">
+<img height="80px" src="./src/42_badges/pipexm.png" />
 </a>
 <a href="https://github.com/Leofariasrj25/FdF">
-<img height="80px" src="" />
+<img height="80px" src="./assets/42_badges/fdfm.png" />
 </a>
 <a href="https://github.com/Leofariasrj25/push_swap42">
-<img height="80px" src="./src/42_badges/push_swape.png" />
+<img height="80px" src="./assets/42_badges/push_swapm.png" />
 </a>
-<a href="">
+<a href="https://github.com/Leofariasrj25/philosophers42">
 <img height="80px" src="./src/42_badges/philosopherse.png" />
 </a>
 <a href="https://github.com/speedshell/minishell">
-<img height="80px" src="./src/42_badges/minishelle.png" />
+<img height="80px" src="./assets/42_badges/minishellm.png" />
 </a>
 <a href="">
-<img height="80px" src="./src/42_badges/netpracticem.png" />
+<img height="80px" src="./assets/42_badges/netpracticem.png" />
+</a>
+<a href="https://github.com/raytracers/miniRT">
+<img height="80px" src="./assets/42_badges/minirtm.png" />
+</a>
+<a href="https://github.com/Leofariasrj25/cpp-piscine">
+<img height="80px" src="./assets/42_badges/cppe.png" />
 </a>
 <a href="">
-<img height="80px" src="" />
-</a>
-<a href="">
-<img height="80px" src="./src/42_badges/cppe.png" />
-</a>
-<a href="">
-<img height="80px" src="./src/42_badges/inceptionn.png" />
+<img height="80px" src="./assets/42_badges/inceptionn.png" />
 </a>
 
 
