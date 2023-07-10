@@ -40,12 +40,14 @@ Here are some ideas to get you started:
 ---
 
 ### Languages and Tools:
-
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,docker,git,linux,bash,neovim)](https://skillicons.dev)
+</p>
 
 ---
 
 ### 42 journey
+
 [![lfarias-'s 42 stats](https://badge42.vercel.app/api/v2/cl5zpz90q000609l63hare0gx/stats?cursusId=21&coalitionId=345)](https://github.com/JaeSeoKim/badge42)
 
 <a href="https://github.com/Leofariasrj25/libft">
