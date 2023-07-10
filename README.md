@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🧑‍💻 I'm a junior software developer.
 - 👨‍🎓 I'm studying software engineering at 42|Rio. 
-- 📖 Currently learning: graphics by creating a raytracing engine.   
+- 📖 Currently learning: docker and containers.    
 - 💻 Passionate about tech and the future.
 - 🥅 2023 Goals: Learn more about IA, cryptocurrencies, and augmented reality
 - ⚡ Fun fact 1: I love cars and motorsports.
@@ -40,15 +40,15 @@ Here are some ideas to get you started:
 ---
 
 ### Languages and Tools:
-<p align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,docker,git,linux,bash,neovim)](https://skillicons.dev)
-</p>
 
 ---
 
 ### 42 journey
-
-[![lfarias-'s 42 stats](https://badge42.vercel.app/api/v2/cl5zpz90q000609l63hare0gx/stats?cursusId=21&coalitionId=345)](https://github.com/JaeSeoKim/badge42)
+<p align="center">
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5zpz90q000609l63hare0gx/stats?cursusId=21&coalitionId=345" alt="lfarias-'s 42 stats" /></a>
+</p>
 
 <a href="https://github.com/Leofariasrj25/libft">
 <img height="80px" src="./assets/42_badges/libftm.png" />
