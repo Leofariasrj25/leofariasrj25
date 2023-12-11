@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ### Born to code, human after all!
 
-- 🧑‍💻 I'm a junior software developer.
-- 👨‍🎓 I'm studying software engineering at 42|Rio. 
+- 🧑‍💻 Software Developer.
+- 👨‍🎓 studying software engineering at 42|Rio. 
 - 📖 Currently learning: docker and containers.    
 - 💻 Passionate about tech and the future.
 - 🥅 2023 Goals: Learn more about IA, cryptocurrencies, and augmented reality
