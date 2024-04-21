@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 👨‍🎓 studying software engineering at 42|Rio. 
 - 📖 Currently learning: docker and containers.    
 - 💻 Passionate about tech and the future.
-- 🥅 2023 Goals: Learn more about IA, cryptocurrencies, and augmented reality
+- 🥅 2024 Goals: Learn more about augmented reality
 - ⚡ Fun fact 1: I love cars and motorsports.
 
 ---
