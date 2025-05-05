@@ -47,47 +47,60 @@ Here are some ideas to get you started:
 ---
 
 ### 42 journey
-<a title="Libft: my own implementation of C`s standard library" href="https://github.com/Leofariasrj25/libft" target="_blank">
-  <img height="80px" src="./assets/42_badges/libftm.png" />
+<a title="Libft: my own implementation of C's standard library" href="https://github.com/Leofariasrj25/libft" target="_blank">
+  <img height="80px" src="./assets/42_badges/libftm.png" alt="An astronaut floats in space reading a purple book, surrounded by other books, representing the creation of a personal C library and foundational programming knowledge." />
 </a>
+
 <a title="Get_Next_Line: A small tool to read the next line of text from a file" href="https://github.com/Leofariasrj25/get_next_line42" target="_blank">
-  <img height="80px" src="./assets/42_badges/get_next_linem.png" />
+  <img height="80px" src="./assets/42_badges/get_next_linem.png" alt="Badge for the Get Next Line project from 42 School." />
 </a>
+
 <a title="Bonr2BeRoot: Virtual Machine with Linux installed and configured" href="">
-  <img height="80px" src="./assets/42_badges/born2berootm.png" />
+  <img height="80px" src="./assets/42_badges/born2berootm.png" alt="Badge for the Born2BeRoot project, focused on Linux system administration." />
 </a>
+
 <a title="ft_printf: My own version of printf" href="https://github.com/Leofariasrj25/ft_printf42" target="_blank">
-  <img height="80px" src="./assets/42_badges/ft_printfe.png" />
+  <img height="80px" src="./assets/42_badges/ft_printfe.png" alt="Badge for ft_printf, a custom implementation of the printf function in C." />
 </a>
+
 <a title="Pipex: Learn about interprocess communication by implementing linux pipes" href="https://github.com/Leofariasrj25/pipex42" target="_blank">
-  <img height="80px" src="./assets/42_badges/pipexm.png" />
+  <img height="80px" src="./assets/42_badges/pipexm.png" alt="An astronaut emerges from a green pipe in a scene inspired by classic platform games, symbolizing inter-process communication using pipes." />
 </a>
+
 <a title="FdF: My own 3D wireframe visualizer, introduction to computer graphics" href="https://github.com/Leofariasrj25/FdF" target="_blank">
-  <img height="80px" src="./assets/42_badges/fdfm.png" />
+  <img height="80px" src="./assets/42_badges/fdfm.png" alt="Badge for FdF project, a 3D wireframe visualizer and intro to computer graphics." />
 </a>
+
 <a title="Push_swap: a project about algorithms and sorting" href="https://github.com/Leofariasrj25/push_swap42" target="_blank">
-  <img height="80px" src="./assets/42_badges/push_swapm.png" />
+  <img height="80px" src="./assets/42_badges/push_swapm.png" alt="Multiple rockets follow colored paths in space, representing algorithm optimization in sorting using limited operations." />
 </a>
+
 <a title="Philosophers: Learn multithreading by solving the dining philosophers problem" href="https://github.com/Leofariasrj25/philosophers42" target="_blank">
-  <img height="80px" src="./assets/42_badges/philosopherse.png" />
+  <img height="80px" src="./assets/42_badges/philosopherse.png" alt="An astronaut with forks in hand sits at a plate of spaghetti, referencing the classical Dining Philosophers concurrency problem." />
 </a>
+
 <a title="minishell: My own shell interpreter" href="https://github.com/speedshell/minishell" target="_blank">
-  <img height="80px" src="./assets/42_badges/minishellm.png" />
+  <img height="80px" src="./assets/42_badges/minishellm.png" alt="A stylized terminal icon spirals into the galaxy, symbolizing building a Unix-like shell and mastering command parsing and process handling." />
 </a>
+
 <a href="">
-  <img height="80px" src="./assets/42_badges/netpracticem.png" />
+  <img height="80px" src="./assets/42_badges/netpracticem.png" alt="An astronaut stands under a glowing Wi-Fi symbol, hovering above Earth, representing practical skills in networking and IP addressing." />
 </a>
+
 <a title="miniRT: A raytracing engine made totally in C" href="https://github.com/raytracers/miniRT" target="_blank">
-  <img height="80px" src="./assets/42_badges/minirtm.png" />
+  <img height="80px" src="./assets/42_badges/minirtm.png" alt="A 3D wireframe teapot floats in a virtual grid-space, illustrating an introduction to raytracing and computer graphics rendering in C." />
 </a>
+
 <a title="CPP Piscine: Learning C++ from the ground up" href="https://github.com/Leofariasrj25/cpp-piscine" target="_blank">
-  <img height="80px" src="./assets/42_badges/cppm.png" />
+  <img height="80px" src="./assets/42_badges/cppm.png" alt="Badge for CPP Piscine, a C++ learning module from scratch." />
 </a>
-<a title= "Inception: A project about containers and orchestration" href="https://github.com/Leofariasrj25/inception42" target="_blank">
-  <img height="80px" src="./assets/42_badges/inceptionm.png" alt="A hexagonal badge with a golden border and a golden star on the bottom of its frame, in the badge there are wales flying in space pursuing a rocket"/>
+
+<a title="Inception: A project about containers and orchestration" href="https://github.com/Leofariasrj25/inception42" target="_blank">
+  <img height="80px" src="./assets/42_badges/inceptionm.png" alt="A rocket launches through space past a fleet of flying whales carrying Docker containers, symbolizing mastery of containerization and DevOps infrastructure." />
 </a>
+
 <a title="Webserv: A http server built from scratch" href="https://github.com/Leofariasrj25/webserv" target="_blank">
-  <img height="80px" src="./assets/42_badges/webservm.png" alt="A hexagonal badge with a golden star on the bottom as part of its frame, in the badge there's a black spider and an astronaut caught in its web" />
+  <img height="80px" src="./assets/42_badges/webservm.png" alt="An astronaut is caught in a glowing spider web in space, symbolizing the complexity of building a web server from scratch." />
 </a>
 
 ---
