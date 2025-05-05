@@ -22,19 +22,20 @@ Here are some ideas to get you started:
 ### Born to code, human after all!
 
 - 🧑‍💻 Software Developer.
-- 👨‍🎓 studying software engineering at 42|Rio. 
-- 📖 Currently learning: docker and containers.    
+- 👨‍🎓 studying software engineering at <a title="Coding School" href="https://www.42network.org/">École 42<a> <a href="https://42.rio/">(Rio Campus)</a>. 
+- 📖 Currently learning: IA and Cybersecurity.
+- 📖 Currently reading: The Pragmatic Programmer.    
 - 💻 Passionate about tech and the future.
-- 🥅 2024 Goals: Learn more about augmented reality
-- ⚡ Fun fact 1: I love cars and motorsports.
+- 🥅 2025 Goals: Learn more about robotics 🤖.
+- ⚡ Fun fact: I love cars and motorsports.
 
 ---
 
 ### Where to find me:
 <p>
-  <a href="https://github.com/leofariasrj25" target="_blank"><img title="Github" alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/leofariasrj25" target="_blank"><img title="LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://leofariasrj25.medium.com" target="_blank"><img title="Medium" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://github.com/leofariasrj25" target="_blank"><img title="Github profile" alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/leofariasrj25" target="_blank"><img title="LinkedIn profile" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://leofariasrj25.medium.com" target="_blank"><img title="My Medium blog" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,48 +47,49 @@ Here are some ideas to get you started:
 ---
 
 ### 42 journey
-<a href="https://github.com/Leofariasrj25/libft" target="_blank">
+<a title="Libft: my own implementation of C`s standard library" href="https://github.com/Leofariasrj25/libft" target="_blank">
   <img height="80px" src="./assets/42_badges/libftm.png" />
 </a>
-<a href="https://github.com/Leofariasrj25/get_next_line42" target="_blank">
+<a title="Get_Next_Line: A small tool to read the next line of text from a file" href="https://github.com/Leofariasrj25/get_next_line42" target="_blank">
   <img height="80px" src="./assets/42_badges/get_next_linem.png" />
 </a>
-<a href="">
+<a title="Bonr2BeRoot: Virtual Machine with Linux installed and configured" href="">
   <img height="80px" src="./assets/42_badges/born2berootm.png" />
 </a>
-<a href="https://github.com/Leofariasrj25/ft_printf42" target="_blank">
+<a title="ft_printf: My own version of printf" href="https://github.com/Leofariasrj25/ft_printf42" target="_blank">
   <img height="80px" src="./assets/42_badges/ft_printfe.png" />
 </a>
-<a href="https://github.com/Leofariasrj25/pipex42" target="_blank">
+<a title="Pipex: Learn about interprocess communication by implementing linux pipes" href="https://github.com/Leofariasrj25/pipex42" target="_blank">
   <img height="80px" src="./assets/42_badges/pipexm.png" />
 </a>
-<a href="https://github.com/Leofariasrj25/FdF" target="_blank">
+<a title="FdF: My own 3D wireframe visualizer, introduction to computer graphics" href="https://github.com/Leofariasrj25/FdF" target="_blank">
   <img height="80px" src="./assets/42_badges/fdfm.png" />
 </a>
-<a href="https://github.com/Leofariasrj25/push_swap42" target="_blank">
+<a title="Push_swap: a project about algorithms and sorting" href="https://github.com/Leofariasrj25/push_swap42" target="_blank">
   <img height="80px" src="./assets/42_badges/push_swapm.png" />
 </a>
-<a href="https://github.com/Leofariasrj25/philosophers42" target="_blank">
+<a title="Philosophers: Learn multithreading by solving the dining philosophers problem" href="https://github.com/Leofariasrj25/philosophers42" target="_blank">
   <img height="80px" src="./assets/42_badges/philosopherse.png" />
 </a>
-<a href="https://github.com/speedshell/minishell" target="_blank">
+<a title="minishell: My own shell interpreter" href="https://github.com/speedshell/minishell" target="_blank">
   <img height="80px" src="./assets/42_badges/minishellm.png" />
 </a>
 <a href="">
   <img height="80px" src="./assets/42_badges/netpracticem.png" />
 </a>
-<a href="https://github.com/raytracers/miniRT" target="_blank">
+<a title="miniRT: A raytracing engine made totally in C" href="https://github.com/raytracers/miniRT" target="_blank">
   <img height="80px" src="./assets/42_badges/minirtm.png" />
 </a>
-<a href="https://github.com/Leofariasrj25/cpp-piscine" target="_blank">
+<a title="CPP Piscine: Learning C++ from the ground up" href="https://github.com/Leofariasrj25/cpp-piscine" target="_blank">
   <img height="80px" src="./assets/42_badges/cppm.png" />
 </a>
-<a href="https://github.com/Leofariasrj25/inception42" target="_blank">
-  <img height="80px" src="./assets/42_badges/inceptionm.png" />
+<a title= "Inception: A project about containers and orchestration" href="https://github.com/Leofariasrj25/inception42" target="_blank">
+  <img height="80px" src="./assets/42_badges/inceptionm.png" alt="A hexagonal badge with a golden border and a golden star on the bottom of its frame, in the badge there are wales flying in space pursuing a rocket"/>
 </a>
-<a href="https://github.com/Leofariasrj25/webserv" target="_blank">
-  <img height="80px" src="./assets/42_badges/webservm.png" alt="A badge with a golden star on the bottom as part of its frame, in the badge there's a black spider and an astronaut caught in its web" />
+<a title="Webserv: A http server built from scratch" href="https://github.com/Leofariasrj25/webserv" target="_blank">
+  <img height="80px" src="./assets/42_badges/webservm.png" alt="A hexagonal badge with a golden star on the bottom as part of its frame, in the badge there's a black spider and an astronaut caught in its web" />
 </a>
+
 ---
 
 ### 📕 Latest Blog Posts
